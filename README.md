@@ -1,2 +1,2 @@
 # project2
-Computer Engineering, Project2 Content
+Computer Engineering, Project 2 Content
